@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vls:home|Door43 (vls)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vls|d43-vls repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vls/archive/master.zip|d43-vls.zip]]
+
+**Recent Changes**
+{{changes>ns = vls}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vls|Ethnologue data]]
+
